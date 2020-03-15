@@ -1,0 +1,14 @@
+{
+  "name": "jsonfake",
+  "version": "1.0.0",
+  "description": "Fake Rest API for Testing FPOEMS",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch FPOEMS.json"
+  },
+  "author": "Martins",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

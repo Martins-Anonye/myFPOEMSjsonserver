@@ -1,0 +1,16 @@
+{
+  "FPOEMSjsonserver": [
+    {
+      "id": "1",
+      "DBLINK": "Ravi Tamada",
+      "DBNAME": "ravi@gmail.com",
+      "TABLENAME": "xx-xx-xxxx,x - street, x - country"
+    },
+    {
+      "id": "2",
+      "DBLINK": "James Paul",
+      "DBNAME": "ravi@gmail.com",
+      "TABLENAME": "xx-xx-xxxx,x - street, x - country"
+    }
+  ]
+}
