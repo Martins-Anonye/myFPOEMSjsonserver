@@ -2,9 +2,9 @@
   "FPOEMSjsonserver": [
     {
       "id": "1",
-      "DBLINK": "Ravi Tamada",
-      "DBNAME": "ravi@gmail.com",
-      "TABLENAME": "xx-xx-xxxx,x - street, x - country"
+      "DBLINK": "https://www.dropbox.com/s/lc61hfhc78zc4do/FPOEMS_TESTING.db?dl=1",
+      "DBNAME": "FPOEMS_TESTING.db",
+      "TABLENAME": "FPOEMS_TESTING"
     },
     {
       "id": "2",
